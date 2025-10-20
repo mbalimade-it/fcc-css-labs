@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: rosybrown;
+}
+
+/* main card */
+main {
+  margin: auto;
+  background: white;
+  width: 400px;
+  height: 700px;
+  border: 3px solid darkgreen;
+}
+
+/* image section with texts */
+img {
+  border: 1px solid grey;
+  margin-top: 30px;
+}
+
+h1 {
+  color: darkgreen;
+  margin-bottom: 5px;
+}
+h2 {
+  color: rgb(31, 50, 86);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+h3 {
+  color: brown;
+  margin-top: 5px;
+}
+
+hr {
+  margin-left: 25px;
+  margin-right: 25px;
+  color: grey;
+}
+
+/* last section */
+.connect {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+div p {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+a {
+  color: rgb(113, 45, 45);
+}
