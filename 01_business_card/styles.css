@@ -1,55 +1,44 @@
 body {
-  text-align: center;
+  background-color: rosybrown;
   font-family: Arial, sans-serif;
-  background: rosybrown;
 }
 
-/* main card */
-main {
-  margin: auto;
-  background: white;
-  width: 400px;
-  height: 700px;
-  border: 3px solid darkgreen;
-}
-
-/* image section with texts */
-img {
-  border: 1px solid grey;
-  margin-top: 30px;
-}
-
-h1 {
-  color: darkgreen;
-  margin-bottom: 5px;
-}
-h2 {
-  color: rgb(31, 50, 86);
+/* paragraph spacing */
+p {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-h3 {
-  color: brown;
-  margin-top: 5px;
-}
 
-hr {
-  margin-left: 25px;
-  margin-right: 25px;
-  color: grey;
-}
-
-/* last section */
-.connect {
-  font-size: 25px;
-  margin-top: 20px;
-}
-
-div p {
-  display: inline-block;
-  margin: 0 15px;
-}
-
+/* remove underline from all links */
 a {
-  color: rgb(113, 45, 45);
+  text-decoration: none;
+}
+
+/* main card styling */
+.business-card {
+  width: 300px;
+  background-color: white;
+  padding: 20px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+/* profile image */
+.profile-image {
+  max-width: 100%;
+}
+
+/* portfolio link */
+.portfolio-link {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+/* optional spacing for social links */
+.social-media a {
+  display: inline-block;
+  margin: 0 10px;
 }
