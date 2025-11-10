@@ -17,3 +17,7 @@ Labs are not guided exercises. I am given a project example, and then I must mee
 ### [01. Business Card](https://mbalimade-it.github.io/fcc-css-labs/01_business_card)
 
 _basic css, centre page, text-decoration_
+
+### [02. Styled To-Do List](https://mbalimade-it.github.io/fcc-css-labs/02_styled_todo_list)
+
+_basic css, centre page, pseudo classes, borders_
