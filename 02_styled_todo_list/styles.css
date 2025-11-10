@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background: rgba(211, 205, 205, 0.637);
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: rgb(66, 62, 62);
+}
+main {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  background: white;
+  width: 300px;
+  height: 420px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+}
+
+.todo-list {
+  text-align: left;
+  list-style: none;
+  padding: 0;
+}
+
+.checkbox {
+  background: rgb(206, 215, 215);
+  border-radius: 7px;
+  padding: 7px 15px 30px 8px;
+  margin-bottom: 10px;
+}
+
+.sub-item-link {
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: green;
+}
+
+a:focus {
+  outline: solid;
+}
+
+a:visited {
+  color: purple;
+}
