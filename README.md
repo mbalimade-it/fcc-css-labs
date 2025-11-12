@@ -21,3 +21,7 @@ _basic css, centre page, text-decoration_
 ### [02. Styled To-Do List](https://mbalimade-it.github.io/fcc-css-labs/02_styled_todo_list)
 
 _basic css, centre page, pseudo classes, borders_
+
+### [03. Blog Post Card](https://mbalimade-it.github.io/fcc-css-labs/03_blog_post_card)
+
+_style backgrounds and borders_
