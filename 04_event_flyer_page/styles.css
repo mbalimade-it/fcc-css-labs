@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  padding: 50px 0;
+  margin: 0 auto;
+  width: 50vw;
+  min-height: calc(100vh - 100px); /* Added space around minus sign */
+}
+
+img {
+  width: 200px;
+}
+
+hr {
+  width: 40%; /* Removed 'vw' unit as percentage is sufficient */
+}
+
+section {
+  width: 70%; /* Removed 'vw' unit as percentage is sufficient */
+  margin: 0 auto; /* Added to center sections */
+}
+
+ul {
+  list-style-position: inside;
+}
