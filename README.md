@@ -25,3 +25,7 @@ _basic css, centre page, pseudo classes, borders_
 ### [03. Blog Post Card](https://mbalimade-it.github.io/fcc-css-labs/03_blog_post_card)
 
 _style backgrounds and borders_
+
+### [04. Event Flyer Page](https://mbalimade-it.github.io/fcc-css-labs/04_event_flyer_page)
+
+_calc function_
