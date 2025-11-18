@@ -3,7 +3,7 @@ body {
   padding: 50px 0;
   margin: 0 auto;
   width: 50vw;
-  min-height: calc(100vh - 100px); /* Added space around minus sign */
+  min-height: calc(100vh - 100px);
 }
 
 img {
@@ -11,12 +11,12 @@ img {
 }
 
 hr {
-  width: 40%; /* Removed 'vw' unit as percentage is sufficient */
+  width: 40%;
 }
 
 section {
-  width: 70%; /* Removed 'vw' unit as percentage is sufficient */
-  margin: 0 auto; /* Added to center sections */
+  width: 70%;
+  margin: 0 auto;
 }
 
 ul {
