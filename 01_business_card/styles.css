@@ -3,18 +3,15 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* paragraph spacing */
 p {
   margin-top: 5px;
   margin-bottom: 5px;
 }
 
-/* remove underline from all links */
 a {
   text-decoration: none;
 }
 
-/* main card styling */
 .business-card {
   width: 300px;
   background-color: white;
@@ -26,18 +23,15 @@ a {
   font-size: 16px;
 }
 
-/* profile image */
 .profile-image {
   max-width: 100%;
 }
 
-/* portfolio link */
 .portfolio-link {
   display: inline-block;
   margin-top: 10px;
 }
 
-/* optional spacing for social links */
 .social-media a {
   display: inline-block;
   margin: 0 10px;
