@@ -29,3 +29,7 @@ _style backgrounds and borders_
 ### [04. Event Flyer Page](https://mbalimade-it.github.io/fcc-css-labs/04_event_flyer_page)
 
 _calc function_
+
+### [05. Job Application Form](https://mbalimade-it.github.io/fcc-css-labs/05_job_application_form)
+
+_form styling, psuedo elements, attribute selector_
