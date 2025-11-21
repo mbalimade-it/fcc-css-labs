@@ -1,0 +1,84 @@
+body {
+  background: white;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 5px;
+  box-shadow: 0 0 5px black;
+  padding: 20px;
+  background: rgb(221, 236, 239);
+}
+
+#name,
+#email {
+  width: 97%;
+}
+
+#position {
+  width: 99%;
+}
+
+#name,
+#email,
+#position {
+  margin-bottom: 10px;
+}
+
+.text {
+  margin-top: 10px;
+}
+
+.btn {
+  text-align: center;
+}
+
+button {
+  padding: 5px;
+  width: 100%;
+  background: rgb(0, 128, 122);
+  color: white;
+  border: 1px solid rgb(0, 128, 122);
+  border-radius: 5px;
+}
+
+input:focus,
+textarea:focus {
+  border-color: green;
+}
+
+input:invalid,
+select:invalid,
+textarea:invalid {
+  border-color: red;
+}
+
+input:valid,
+select:valid,
+textarea:valid {
+  border-color: green;
+}
+
+button:hover {
+  background: rgb(0, 100, 95);
+}
+
+.radio-group input[type="radio"]:checked {
+  border: 2px solid green;
+  background: lightgreen;
+  box-shadow: 0 0 5px green;
+}
+
+.radio-group input[type="radio"]:checked + label {
+  color: green;
+}
+
+input:first-of-type {
+  background-color: #f0f8ff;
+}
