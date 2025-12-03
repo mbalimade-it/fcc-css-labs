@@ -33,3 +33,7 @@ _calc function_
 ### [05. Job Application Form](https://mbalimade-it.github.io/fcc-css-labs/05_job_application_form)
 
 _form styling, psuedo elements, attribute selector_
+
+### [06. Set of Coloured Boxes](https://mbalimade-it.github.io/fcc-css-labs/06_set_of_coloured_boxes)
+
+_colours_
